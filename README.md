@@ -6,3 +6,5 @@ projet web fait en cir 1 en 2020
 je vais bientot faire un push pour refaire le panier afin de l'ajouter a la bdd 
 
 et  améliorer ce que peut l'etre 
+
+la page d'acceuil du site se trouve dans le dossier "Magasin" "Acceuil.php"
